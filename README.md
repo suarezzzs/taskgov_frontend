@@ -1,5 +1,3 @@
-Aqui está o código Markdown pronto para copiar e colar no seu arquivo `README.md`:
-
 ```markdown
 # Task Gov System - Frontend Client
 
